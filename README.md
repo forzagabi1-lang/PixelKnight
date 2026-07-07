@@ -70,4 +70,11 @@ PixelKnight გვასწავლის სიბოროტის დამ
 ---
 
 ## თამაშის ჩაწერა
-ვაწვებით Releases-ში ფაილს PixelKnight. ჩამოვშალოთ Assests და დავაჭიროთ PixelKnights.
+ვაწვებით Releases-ში ფაილს PixelKnight. ჩამოვშალოთ Assests და დავაჭიროთ PixelKnight.Game.1.zip. ამის შემდეგ ჩაიწერება თამაში. 
+
+
+---
+
+# მადლობა ყურადღებისთვის!!!
+
+
