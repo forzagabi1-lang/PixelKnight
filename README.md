@@ -45,6 +45,11 @@ PixelKnight გვასწავლის სიბოროტის დამ
 
 <img width="299" height="298" alt="image" src="https://github.com/user-attachments/assets/800bab1b-ca0d-4861-9ff7-4f2e0939ea88" />
 
+ამულეტის ყიდვის შემდეგ იგი სასახლეში გაჩნდება და რომ ავიღებთ შეგვეძლება ჩაკეტილი კარების განგრევა და გადასხვლა ახალ ლოკაციაში
+
+<img width="462" height="482" alt="image" src="https://github.com/user-attachments/assets/d81ab74a-114b-404e-888e-ac5ec71d8ca4" />
+
+
 
 
 
