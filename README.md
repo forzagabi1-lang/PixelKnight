@@ -22,7 +22,11 @@ PixelKnight გვასწავლის სიბოროტის დამ
 ---
 
 ## თამაშის მიმდევრობა
-მოთამაშე იწყებს თამაშს საწყისი ლოკაციიდან <img width="883" height="146" alt="image" src="https://github.com/user-attachments/assets/693744ca-7a1c-48ed-863e-648c25e804df" />
+მოთამაშე იწყებს თამაშს საწყისი ლოკაციიდან <img width="973" height="517" alt="image" src="https://github.com/user-attachments/assets/e509c4aa-9185-4398-8839-9bf89b7cae3e" />
+შემდეგ როცა მოთამაშე გაივლის საწყის ლოკაციას და მიადგება დიდ სასახლეს მისი პირველი მთავარი მიზანია ის რომ იპოვოს მიმალული მაღაზია.<img width="240" height="85" alt="image" src="https://github.com/user-attachments/assets/b487ba31-687b-4c67-89da-635a9cfdc0dd" />
+როდესაც მაღაზიაში მივა მოთამაშე მას დასჭირდება ფული (coin-ები). ფულის მიღება შეიძლება 2 მხრივ: 1 ან ყუთები გახსნას და იქიდან მიიღოს ფული, ან 2 ჯადოქრის ბოროტი მეომრები დაამარცხოს.<img width="536" height="309" alt="image" src="https://github.com/user-attachments/assets/a6f279d6-ab7c-4ffb-a0ef-4cfbb6d0f45a" />
+
+
 
 
 
