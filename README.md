@@ -39,6 +39,12 @@ PixelKnight გვასწავლის სიბოროტის დამ
 <img width="536" height="309" alt="image" src="https://github.com/user-attachments/assets/a6f279d6-ab7c-4ffb-a0ef-4cfbb6d0f45a" />
 
 
+---
+
+მაღაზიაში შეიძლება 4 ნივთის ყიდვა. 1. გულების მომატება, 2. ენერგიის მომატება, 3. ხმლის ძალის გაძლიერება (level 1, 2, MAX) და 4. კარის გამხსნელი ამულეტის ყიდვა.
+<img width="299" height="298" alt="image" src="https://github.com/user-attachments/assets/800bab1b-ca0d-4861-9ff7-4f2e0939ea88" />
+
+
 
 
 
